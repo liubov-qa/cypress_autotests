@@ -17,7 +17,7 @@
 ## Детали реализации
 
 1. baseUrl вынесен в переменные конфига
-![image](https://https://raw.githubusercontent.com/liubov-qa/cypress_autotests/refs/heads/main/baseURL.png)
+![image](https://raw.githubusercontent.com/liubov-qa/cypress_autotests/refs/heads/main/baseURL.png)
 
 2. Применение хуков beforeEach и afterEach
 ![image](https://raw.githubusercontent.com/liubov-qa/cypress_autotests/refs/heads/main/beforeEach%20afterEach.png)
